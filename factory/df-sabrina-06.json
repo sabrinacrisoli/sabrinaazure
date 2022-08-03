@@ -1,0 +1,9 @@
+{
+	"name": "df-sabrina-06",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e489f6e9-a781-4209-b3ba-37c4ff75fd87",
+		"tenantId": "a49e2ad8-3b8d-40e8-8c45-1505c9a243d3"
+	}
+}
