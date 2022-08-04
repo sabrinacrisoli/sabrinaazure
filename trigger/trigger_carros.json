@@ -2,7 +2,7 @@
 	"name": "trigger_carros",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [
 			{
 				"pipelineReference": {
@@ -16,7 +16,7 @@
 			"recurrence": {
 				"frequency": "Minute",
 				"interval": 15,
-				"startTime": "2022-08-04T12:42:00",
+				"startTime": "2022-08-04T09:42:00",
 				"endTime": "2022-08-05T00:42:00",
 				"timeZone": "E. South America Standard Time"
 			}
